@@ -2,7 +2,7 @@
     "name": "bit-show-react",
     "version": "1.0.0",
     "private": true,
-    "author": "Marko Arsić",
+    "author": "Milan Novakovic",
     "license": "MIT",
     "description": "BIT Blog SPA",
     "scripts": {
